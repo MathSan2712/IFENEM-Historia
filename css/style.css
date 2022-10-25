@@ -12,7 +12,7 @@
 }
 
 .body-pagina-principal {
-    background-image: url();
+    background-image: url(imgprincipal.png);
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
@@ -199,7 +199,7 @@
 }
 
 .item-flexbox-links-antiguidade-classica {
-    background-image: url(img/img-pag-principal/interpretacao-de-texto.png);
+    background-image: url(antiguidade-classica.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -216,7 +216,7 @@
 }
 
 .item-flexbox-links-civilizacoes {
-    background-image: url(img/img-pag-principal/interpretacao-de-texto.png);
+    background-image: url(colombia.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -232,7 +232,7 @@
     background-size: 120%;
 }
 .item-flexbox-links-navegacoes {
-    background-image: url(img/img-pag-principal/interpretacao-de-texto.png);
+    background-image: url(grandes-navegacoes.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -248,7 +248,7 @@
     background-size: 120%;
 }
 .item-flexbox-links-feudalismo {
-    background-image: url(img/img-pag-principal/interpretacao-de-texto.png);
+    background-image: url(feudalismo.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -264,7 +264,7 @@
     background-size: 120%;
 }
 .item-flexbox-links-revolucao-francesa {
-    background-image: url(img/img-pag-principal/interpretacao-de-texto.png);
+    background-image: url(revolucao-francesa.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -280,7 +280,7 @@
     background-size: 120%;
 }
 .item-flexbox-links-absolutismo {
-    background-image: url(luis14.jpg);
+    background-image: url(luis14.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -296,7 +296,7 @@
     background-size: 120%;
 }
 .item-flexbox-links-ditadura-militar {
-    background-image: url(img/img-pag-principal/interpretacao-de-texto.png);
+    background-image: url(ditadura-militar.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -312,7 +312,7 @@
     background-size: 120%;
 }
 .item-flexbox-links-independencia {
-    background-image: url(img/img-pag-principal/interpretacao-de-texto.png);
+    background-image: url(independencia.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -328,7 +328,7 @@
     background-size: 120%;
 }
 .item-flexbox-links-segundo-reinado {
-    background-image: url(img/img-pag-principal/interpretacao-de-texto.png);
+    background-image: url(dom-pedro-ii.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
