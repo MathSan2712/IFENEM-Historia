@@ -12,7 +12,7 @@
 }
 
 .body-pagina-principal {
-    background-image: url(imgprincipal.png);
+    background-image: url();
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
@@ -199,7 +199,7 @@
 }
 
 .item-flexbox-links-antiguidade-classica {
-    background-image: url(antiguidade-classica.png);
+    background-image: url(../img/pag-principal/antiguidade-classica.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -216,7 +216,7 @@
 }
 
 .item-flexbox-links-civilizacoes {
-    background-image: url(colombia.png);
+    background-image: url(../img/pag-principal/colombia.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -232,7 +232,7 @@
     background-size: 120%;
 }
 .item-flexbox-links-navegacoes {
-    background-image: url(grandes-navegacoes.png);
+    background-image: url(../img/pag-principal/grandes-navegacoes.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -248,7 +248,7 @@
     background-size: 120%;
 }
 .item-flexbox-links-feudalismo {
-    background-image: url(feudalismo.png);
+    background-image: url(../img/pag-principal/feudalismo.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -264,7 +264,7 @@
     background-size: 120%;
 }
 .item-flexbox-links-revolucao-francesa {
-    background-image: url(revolucao-francesa.png);
+    background-image: url(../img/pag-principal/revolucao-francesa.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -280,7 +280,7 @@
     background-size: 120%;
 }
 .item-flexbox-links-absolutismo {
-    background-image: url(luis14.png);
+    background-image: url(../img/pag-principal/luis14.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -296,7 +296,7 @@
     background-size: 120%;
 }
 .item-flexbox-links-ditadura-militar {
-    background-image: url(ditadura-militar.png);
+    background-image: url(../img/pag-principal/ditadura-militar.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -312,7 +312,7 @@
     background-size: 120%;
 }
 .item-flexbox-links-independencia {
-    background-image: url(independencia.png);
+    background-image: url(../img/pag-principal/independencia.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -328,7 +328,7 @@
     background-size: 120%;
 }
 .item-flexbox-links-segundo-reinado {
-    background-image: url(dom-pedro-ii.png);
+    background-image: url(../img/pag-principal/dom-pedro-ii.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -344,7 +344,7 @@
     background-size: 120%;
 }
 .item-flexbox-links-era-vargas {
-    background-image: url(vargas.png);
+    background-image: url(../img/pag-principal/vargas.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -566,7 +566,7 @@
 
 .sidebar {
     vertical-align: top;
-    margin-right: 40px;
+    margin-right: 20px;
     margin-top: 10px;
     width: 120px;
     display: inline-block;
