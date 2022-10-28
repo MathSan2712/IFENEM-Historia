@@ -644,7 +644,16 @@
 .sidebar-details summary:hover {
     text-decoration: underline;
 }
-
+.topics {
+    margin-left: 20px;
+    margin-top: 10px;
+    list-style: inside;
+}
+.frase {
+    margin-left: 20px;
+    margin-top: 10px;
+    /* list-style-type: circle; */
+}
 main {
     text-align: justify;
     padding: 2em;
