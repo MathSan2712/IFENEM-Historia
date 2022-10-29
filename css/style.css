@@ -401,16 +401,16 @@
     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
         rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
 }
-.nodiv {
+/* .nodiv {
     border-radius: 23px;
     display: inline-block;
     width: 306px;
     height: 222px;
     overflow: hidden;
     margin: 40px 0;
-    /*box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
-        rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;*/
-}
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+        rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+} */
 
 
 .item-flexbox-videos-interpretacao-de-texto {
