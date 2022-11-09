@@ -998,10 +998,23 @@ input[type="radio"]:checked::before {
     width: 100%;
     text-align: center;
 }
-
+.controlar-pagina-simulado {
+	display: flex;
+	justify-content: space-between;
+	width: 140px;
+}
 .respostas-simulado {
     border: 2px solid rgba(0, 0, 0, 0.131);
     border-radius: 8px;
     padding: 10px 15px;
     margin: 10px 10px 30px 10px;
+}
+.botao-finalizar {
+	padding: 10px 30px;
+	color: var(--verde-if);
+	background-color: white;
+	border: solid 3px var(--verde-if);
+	border-radius: 8px;
+	font-size: 20px;
+	font-weight: semi-bold;
 }
