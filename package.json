@@ -1,0 +1,24 @@
+{
+  "name": "ifenem",
+  "version": "1.0.0",
+  "description": "https://mathsan2712.github.io/IFENEM-Historia/",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "parse": "cd js/ && browserify main.js -o bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathSan2712/IFENEM-Historia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathSan2712/IFENEM-Historia/issues"
+  },
+  "homepage": "https://github.com/MathSan2712/IFENEM-Historia#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "sweetalert2": "^11.6.5"
+  }
+}
