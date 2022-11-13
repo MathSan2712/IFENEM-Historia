@@ -8,7 +8,7 @@ const next = document.querySelector(".next");
 const back = document.querySelector(".back");
 let itemTabela = document.querySelectorAll(".tg-nsxs");
 let respostas = new Array(10).fill(null);
-const gabarito = [3, 3, 3, 2, 1, 2, 1, 2, 4, 4];
+const gabarito = [3, 3, 2, 1, 4, 0, 0, 1, 4, 1];
 const finalizar = document.querySelector(".botao-finalizar");
 
 itemTabela.forEach((item, index) => {

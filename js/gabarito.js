@@ -1,7 +1,7 @@
 const params = new URLSearchParams(window.location.search);
 const respostas = params.get("respostas").split(",");
 const nota = params.get("nota");
-const gabarito = [3, 3, 3, 2, 1, 2, 1, 2, 4, 4];
+const gabarito = [3, 3, 2, 1, 4, 0, 0, 1, 4, 1];
 const containerNotaFinal = document.querySelector(".nota-final");
 
 containerNotaFinal.innerHTML = `<h2 class="nota-gabarito titulo-gabarito">Você acertou ${nota} de 10 questões!</h2>`;
