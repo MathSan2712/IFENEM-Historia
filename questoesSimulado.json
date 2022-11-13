@@ -1,127 +1,126 @@
 {
-	"questoes": [
-		{
-			"enunciado": "1) (UEPB) Sobre o Mercantilismo, política econômica do Estado Nacional, é INCORRETO afirmar que:",
-			"alternativas": [
-				"Caracterizou-se por uma política alfandegária baseada no protecionismo.",
-				"Concentração de metais objetivando a formação de lastros nos cofres públicos.",
-				"Utilização de um sistema colonial montado com a intenção de complementar a economia metropolitana.",
-				"Foi identificado como uma modalidade econômica marcada pela ausência do Estado na economia.",
-				"Permitiu à burguesia mercantil europeia o acúmulo de capitais."
-			],
-			"resposta": "3",
-			"marcada": ""
-		},
-		{
-			"enunciado": "2) (UFRN) Identifique, nas opções abaixo, os princípios comuns que orientaram o Mercantilismo:",
-			"alternativas": [
-				"incentivo à construção naval, livre cambismo, racionalismo, colonialismo.",
-				"livre cambismo, incentivo à produção manufatureira, individualismo, metalismo.",
-				"combate à legislação protecionista, laissez-faire, racionalismo, individualismo.",
-				"metalismo, balança de comércio favorável, protecionismo alfandegário, colonialismo.",
-        "imperialismo, proibição de cambismo e apoio à legislação protecionista."
-			],
-			"resposta": "3",
-			"marcada": ""
-		},
-		{
-			"enunciado": "(UFPE) No governo de D. Pedro I, a situação do Brasil:",
-			"alternativas": [
-				"Assistia a dificuldades diplomáticas, devido à não aceitação da Inglaterra, de considerar o Brasil como um país independente.",
-				"era de estabilidade política, em face do apoio da maior parte da população, e devido ao fato de o imperador ter decidido permanecer no Brasil.",
-				"era de prosperidade econômica, com o crescimento da lavoura cafeeira na região de São Paulo.",
-				"era alvo de constantes conflitos políticos provocados pelos adversários do imperador, na defesa de mais liberdade.",
-				"era de estabilidade, depois da Constituição de 1824, com a defesa das ideias liberais."
-			],
-			"resposta": "3",
-			"marcada": ""
-		},
-		{
-			"enunciado": "4) (UFRN) O Período Regencial foi palco de várias rebeliões que eclodiram de Norte a Sul do país e que tiveram por objetivo a autonomia provincial, cogitando-se, às vezes, em instituir-se a República. Dentre elas, destacam-se a Cabanagem, a Balaiada e a Sabinada. Identifique a opção que apresenta uma característica comum a essas revoltas:",
-			"alternativas": [
-				"descontentamento generalizado dos rebeldes, devido à longa permanência da monarquia portuguesa no Brasil.",
-				"apoio de quase todos os revoltosos ao retorno de D. Pedro, tendo as revoluções, portanto, um caráter restaurador.",
-				"participação intensa de camadas populares que reagiram, de forma violenta, na tentativa de melhorar sua vida material.",
-				"influência marcante das ideias francesas da Ilustração, que sensibilizaram os revoltosos e agitaram os interesses anti-metropolitanos.",
-        "nenhuma das respostas acima"
-			],
-			"resposta": "2",
-      "marcada": ""
-		},
-		{
-			"enunciado": "5) (UFPE) Império mostra mudanças importantes com relação ao período Colonial. Na época do Império, a sociedade brasileira:",
-			"alternativas": [
-				"tornou-se mais democrática, com o declínio acentuado da escravidão depois de 1840, e com a vinda de imigrantes europeus que traziam ideias modernizadoras.",
-				"manteve a escravidão como fonte de produção de riqueza, embora restrita à cultura do café, no oeste paulista e no interior do Rio de Janeiro.",
-				"conseguiu livrar-se das influências européias, afirmando uma matriz, respeitando as tradições seculares de sua história.",
-				"permaneceu marcada pelo escravismo, embora já houvesse mudanças de muitos hábitos, por influência da modernização de alguns setores.",
-				"conviveu com rebeliões políticas frequentes, lideradas pelos liberais radicais e movidas por ideais abolicionistas e republicanos."
-			],
-			"resposta": "1",
-			"marcada": ""
-		},
-		{
-			"enunciado": "6) (PUC-SP) A Guerra do Paraguai (1864-1870):",
-			"alternativas": [
-				"Opôs Argentina e Uruguai ao Paraguai de Solano López; o Brasil apoiou o governo paraguaio, que conseguiu, apesar da grande perda de soldados, vencer o conflito.",
-				"iniciou-se após desentendimentos militares e diplomáticos na região do Prata; o Brasil, em aliança com a Argentina, lutou contra o Uruguai, que foi incorporado ao território brasileiro após o conflito.",
-				"Foi marcada pela extrema violência e destruiu economicamente o Paraguai; o Brasil, por meio da guerra, organizou-se militarmente e ampliou sua interferência política na região do Prata.",
-				"Terminou com a derrota do Paraguai para a Tríplice Aliança (Argentina, Brasil e Uruguai); o Brasil auxiliou, após o conflito, a recuperação do Paraguai por meio da realização de obras conjuntas entre os países.",
-				"Trouxe o fim da ditadura do paraguaio Solano López e a incorporação do Paraguai à América Unida idealizada por Simón Bolívar; o Brasil, por seu papel na guerra, tornou-se aliado militar constante da Argentina."
-			],
-			"resposta": "2",
-			"marcada": ""
-		},
-		{
-			"enunciado": "7) (UFRN) Vitoriosa a revolução, abre-se uma espécie de vazio de poder por força do colapso político da burguesia do café e da incapacidade das demais facções de classe para assumi-lo, em caráter exclusivo. (...) Na descontinuidade de outubro-1930, o Brasil começa a trilhar, enfim, o caminho da maioridade política. Paradoxalmente, na mesma época em que tanto se insistia nos caminhos originais, autenticamente brasileiros, para a solução dos problemas nacionais, iniciava-se o processo da efetiva constituição das classes dominadas, abriam-se os caminhos nem sempre lineares da polarização de classes e as grandes correntes ideológicas que dividem o mundo contemporâneo penetravam no país. FAUSTO, Boris. A Revolução de 1930: historiografia e história. São Paulo:Brasiliense, 1972. pp. 112-114. O autor do texto, analisando o significado da Revolução de 1930 para a história do Brasil, defende que:",
-			"alternativas": [
-				"As diversas facções de classe tiveram iguais oportunidades de assumir o poder, face à queda da burguesia do café.",
-				"Socialmente, o processo desencadeado pela Revolução veio agravar as separações entre as classes na sociedade brasileira.",
-				"O movimento foi vitorioso porque contou com o apoio efetivo das diversas categorias sociais, que estavam atingindo sua maturidade política.",
-				"Politicamente, o colapso da burguesia cafeeira abriu os caminhos para a construção de uma Pátria democrática e igualitária.",
-        "nenhuma das respostas acima"
-			],
-			"resposta": "1",
-			"marcada": ""
-		},
-		{
-			"enunciado": "8) (PUC-MG) O período compreendido entre os anos de 1937 a 1945 ficou conhecido na história do Brasil como Estado Novo. São características desse período, EXCETO:",
-			"alternativas": [
-				"o crescimento industrial estimulado pelo Estado, que passou a regular a acumulação do capital.",
-				"o aumento das exportações brasileiras de matérias-primas para suprir demandas dos países beligerantes.",
-				"a criação da imagem de Getúlio como “pai dos pobres” por aumentar substancialmente os salários dos trabalhadores do campo.",
-				"a reunião das leis trabalhistas, formando, em 1943, a CLT, que ainda hoje regulamenta as relações entre patrões e empregados.",
-				"a criação de empresas estatais como a CSN e a Vale do Rio doce, que se destina à exploração de minérios."
-			],
-			"resposta": "2",
-			"marcada": ""
-		},
-		{
-			"enunciado": "9) (UEPB) O filme: “O que é isso companheiro?”, com base no livro do escritor Fernando Gabeira, trata de um período bastante conturbado da história brasileira, em que muitos grupos de esquerda no país optaram pela luta armada como forma de combater o regime político. Sobre este período podemos relacionar fatos relevantes, EXCETO que: ",
-			"alternativas": [
-				"no início dos anos de 1970, ocorre a radicalização do regime militar, com o aumento da repressão a todos os opositores do regime.",
-				"em janeiro de 1970, um decreto lei fortalece a censura à imprensa e estende esta censura a músicas, filmes, peças de teatro etc.",
-				"em resposta a esta radicalização do regime, os grupos de esquerda partem para a ofensiva e utilizam-se de assaltos a bancos e de sequestros de autoridades, incluindo embaixadores de outros países, além de partirem para o confronto direto com o governo.",
-				"ao lado do aumento da repressão política o país vivia uma fase eufórica na economia com o chamado milagre econômico.",
-        "o governo Emílio Garrastazu Médici, logo após sua eleição, promove um acordo entre os diversos grupos de esquerda, consolidando a abertura política."
-
-			],
-			"resposta": "4",
-			"marcada": ""
-		},
-		{
-			"enunciado": "10) (UFPE)  “Menos de quatro meses após o assassinato de Herzog, a 17 de janeiro de 1976, outra morte ocorreu nas dependências do DOI-CODI de São Paulo: a do operário metalúrgico e militante sindical, Manoel Fiel Filho. Novamente, a versão oficial falava em suicídio. Sentindo-se diretamente desafiado, Geisel resolveu agir.” (Edgar Luiz de Barros). O texto revela um momento difícil do governo do Presidente Ernesto Geisel. No governo de Geisel (1974-1979):",
-			"alternativas": [
-				"acentuou-se o desgaste do poder dos militares, devido à luta da sociedade civil contra o autoritarismo e devido ao aprofundamento da crise econômica",
-				"foi fundado, por lideranças operárias, o Partido dos Trabalhadores, na região industrial de São Paulo.",
-				"realizou-se a Primeira Conferência Nacional da Classe Trabalhadora, base para a Fundação da Central Única dos Trabalhadores.",
-				"foi institucionalizada uma forte censura à imprensa, com a homologação dos atos institucionais II e III.",
-                "conseguiu-se evitar as greves operárias que tinham sido constantes no governo de Artur da Costa e Silva."
-			],
-			"resposta": "4",
-			"marcada": ""
-		}
-	],
-"gabarito": [3, 3, 3, 2, 1, 2, 1, 2, 4, 4],
+"questoes": [
+	{
+		"enunciado": "1) (UEPB) Sobre o Mercantilismo, política econômica do Estado Nacional, é INCORRETO afirmar que:",
+		"alternativas": [
+			"Caracterizou-se por uma política alfandegária baseada no protecionismo.",
+			"Concentração de metais objetivando a formação de lastros nos cofres públicos.",
+			"Utilização de um sistema colonial montado com a intenção de complementar a economia metropolitana.",
+			"Foi identificado como uma modalidade econômica marcada pela ausência do Estado na economia.",
+			"Permitiu à burguesia mercantil europeia o acúmulo de capitais."
+		],
+		"resposta": "3",
+		"marcada": ""
+	},
+	{
+		"enunciado": "2) (UFPE) No governo de D. Pedro I, a situação do Brasil:",
+		"alternativas": [
+			"Assistia a dificuldades diplomáticas, devido à não aceitação da Inglaterra, de considerar o Brasil como um país independente.",
+			"era de estabilidade política, em face do apoio da maior parte da população, e devido ao fato de o imperador ter decidido permanecer no Brasil.",
+			"era de prosperidade econômica, com o crescimento da lavoura cafeeira na região de São Paulo.",
+			"era alvo de constantes conflitos políticos provocados pelos adversários do imperador, na defesa de mais liberdade.",
+			"era de estabilidade, depois da Constituição de 1824, com a defesa das ideias liberais."
+		],
+		"resposta": "3",
+		"marcada": ""
+	},
+	{
+		"enunciado": "3) (PUC-SP) A Guerra do Paraguai (1864-1870):",
+		"alternativas": [
+			"Opôs Argentina e Uruguai ao Paraguai de Solano López; o Brasil apoiou o governo paraguaio, que conseguiu, apesar da grande perda de soldados, vencer o conflito.",
+			"iniciou-se após desentendimentos militares e diplomáticos na região do Prata; o Brasil, em aliança com a Argentina, lutou contra o Uruguai, que foi incorporado ao território brasileiro após o conflito.",
+			"Foi marcada pela extrema violência e destruiu economicamente o Paraguai; o Brasil, por meio da guerra, organizou-se militarmente e ampliou sua interferência política na região do Prata.",
+			"Terminou com a derrota do Paraguai para a Tríplice Aliança (Argentina, Brasil e Uruguai); o Brasil auxiliou, após o conflito, a recuperação do Paraguai por meio da realização de obras conjuntas entre os países.",
+			"Trouxe o fim da ditadura do paraguaio Solano López e a incorporação do Paraguai à América Unida idealizada por Simón Bolívar; o Brasil, por seu papel na guerra, tornou-se aliado militar constante da Argentina."
+		],
+		"resposta": "2",
+		"marcada": ""
+	},
+	{
+		"enunciado": "4) (UFRN) Vitoriosa a revolução, abre-se uma espécie de vazio de poder por força do colapso político da burguesia do café e da incapacidade das demais facções de classe para assumi-lo, em caráter exclusivo. (...) Na descontinuidade de outubro-1930, o Brasil começa a trilhar, enfim, o caminho da maioridade política. Paradoxalmente, na mesma época em que tanto se insistia nos caminhos originais, autenticamente brasileiros, para a solução dos problemas nacionais, iniciava-se o processo da efetiva constituição das classes dominadas, abriam-se os caminhos nem sempre lineares da polarização de classes e as grandes correntes ideológicas que dividem o mundo contemporâneo penetravam no país. FAUSTO, Boris. A Revolução de 1930: historiografia e história. São Paulo:Brasiliense, 1972. pp. 112-114. O autor do texto, analisando o significado da Revolução de 1930 para a história do Brasil, defende que:",
+		"alternativas": [
+			"As diversas facções de classe tiveram iguais oportunidades de assumir o poder, face à queda da burguesia do café.",
+			"Socialmente, o processo desencadeado pela Revolução veio agravar as separações entre as classes na sociedade brasileira.",
+			"O movimento foi vitorioso porque contou com o apoio efetivo das diversas categorias sociais, que estavam atingindo sua maturidade política.",
+			"Politicamente, o colapso da burguesia cafeeira abriu os caminhos para a construção de uma Pátria democrática e igualitária.",
+	"nenhuma das respostas acima"
+		],
+		"resposta": "1",
+		"marcada": ""
+	},
+	{
+		"enunciado": "5) (UFPE)  “Menos de quatro meses após o assassinato de Herzog, a 17 de janeiro de 1976, outra morte ocorreu nas dependências do DOI-CODI de São Paulo: a do operário metalúrgico e militante sindical, Manoel Fiel Filho. Novamente, a versão oficial falava em suicídio. Sentindo-se diretamente desafiado, Geisel resolveu agir.” (Edgar Luiz de Barros). O texto revela um momento difícil do governo do Presidente Ernesto Geisel. No governo de Geisel (1974-1979):",
+		"alternativas": [
+			"acentuou-se o desgaste do poder dos militares, devido à luta da sociedade civil contra o autoritarismo e devido ao aprofundamento da crise econômica",
+			"foi fundado, por lideranças operárias, o Partido dos Trabalhadores, na região industrial de São Paulo.",
+			"realizou-se a Primeira Conferência Nacional da Classe Trabalhadora, base para a Fundação da Central Única dos Trabalhadores.",
+			"foi institucionalizada uma forte censura à imprensa, com a homologação dos atos institucionais II e III.",
+	"conseguiu-se evitar as greves operárias que tinham sido constantes no governo de Artur da Costa e Silva."
+		],
+		"resposta": "4",
+		"marcada": ""
+	},
+{
+  "enunciado": "6) (ACAFE) Astecas, incas, siouxs, apaches, guaranis e araucanos eram alguns dos muitos povos indígenas que viviam na América e foram dominados, cristianizados ou mesmo exterminados quando da chegada dos europeus. Sobre esse capítulo violento e muitas vezes pouco lembrado da história americana, todas as alternativas estão corretas, exceto a:",
+		"alternativas": [
+			"Astecas e Incas habitavam, respectivamente, o que são hoje o México e a região andina. A principal estratégia espanhola para vencer esses dois poderosos povos foi iniciar uma violenta guerra entre eles. Após seu enfraquecimento, as duas civilizações foram dominadas.",
+			"Apesar de na atualidade ser uma democracia, os EUA agiram de forma muito violenta com os povos que encontraram no caminho de sua expansão. Guerras, extermínios e confinamentos forçados em reservas foram práticas muito comuns do estado norte-americano com seus indígenas, entre eles, os Sioux e os Apaches.",
+			"O Brasil, apesar das inúmeras violências do passado, ainda possui na atualidade grande contingente de povos indígenas. Há várias reservas espalhas pelo país, mas a condição de boa parte dos povos ainda existentes é precária, com doenças, falta de demarcação de terras e preconceito social.",
+			"As doenças trazidas pelos europeus, e para as quais os povos da América não possuíam defesas imunológicas adequadas, mataram milhões de indígenas.",
+	"Aqui no Brasil, a conversão religiosa que os nativos sofreram contra a sua vontade foi realizada pelos jesuítas."
+		],
+		"resposta": "0",
+		"marcada": ""
+},
+{
+"enunciado": "7) (Enem 2019) A soberania dos cidadãos dotados de plenos direitos era imprescindível para a existência da cidade-estado. Segundo os regimes políticos, a proporção desses cidadãos em relação à população total dos homens livres podia variar muito, sendo bastante pequena nas aristocracias e oligarquias e maior nas democracias. CARDOSO, C. F. A cidade-estado clássica. São Paulo: Ática, 1985. Nas cidades-estado da Antiguidade Clássica, a proporção de cidadãos descrita no texto é explicada pela adoção do seguinte critério para a participação política:",
+ "alternativas": [
+			"Controle da terra.",
+			"Liberdade de culto.",
+			"Igualdade de gênero.",
+			"Exclusão dos militares.",
+	"Exigência da alfabetização."
+		],
+		"resposta": "0",
+		"marcada": ""
+},
+{
+  "enunciado": "8) (PUC) Antes da epidemia da COVID-19, outras doenças espalharam-se rapidamente e causaram a morte de milhares de pessoas. Na Idade Média ocidental, ficou famosa a Peste Negra que, combinada com a fome, dizimou cerca de um terço da população europeia. Assinale a única alternativa que relaciona corretamente o surgimento dessa peste com o quadro maior da baixa Idade Média:",
+		"alternativas": [
+			"O surgimento da Peste Negra reforçou o desenvolvimento científico, especialmente da medicina medieval, que pôde averiguar soluções salvíficas oferecidas pela Escolástica.",
+			"O surgimento da Peste Negra indica o renascimento das rotas de comércio europeu e contribuiu para a decadência do regime feudal.",
+			"A Peste Negra favoreceu o incremento das universidades na Europa, pois tanto suseranos quanto vassalos uniram-se para incentivar a elaboração de pesquisas e a criação de uma vacina eficaz.",
+			"A Peste Negra levou os papas, bispos e reis a se unirem para obrigar as pessoas infectadas a lutarem nas Cruzadas, com a metade, desse modo, transmitirem a doença aos muçulmanos que dominavam Jerusalém.",
+	"nenhuma das respostas acima"
+		],
+		"resposta": "1",
+		"marcada": ""
+},
+{
+  "enunciado": "9) (ENEM) Em nosso país queremos substituir o egoísmo pela moral, a honra pela probidade, os usos pelos princípios, as conveniências pelos deveres, a tirania da moda pelo império da razão, o desprezo à desgraça pelo desprezo ao vício, a insolência pelo orgulho, a vaidade pela grandeza de alma, o amor ao dinheiro pelo amor à glória, a boa companhia pelas boas pessoas, a intriga pelo mérito, o espirituoso pelo gênio, o brilho pela verdade, o tédio da volúpia pelo encanto da felicidade, a mesquinharia dos grandes pela grandeza do homem. (HUNT, L. Revolução Francesa e Vida Privada. In: PERROT, M. (Org.) História da Vida Privada: da Revolução Francesa à Primeira Guerra. Vol. 4. São Paulo: Companhia das Letras, 1991 (adaptado)) O discurso de Robespierre, de 5 de fevereiro de 1794, do qual o trecho transcrito é parte, relaciona-se a qual dos grupos político-sociais envolvidos na Revolução Francesa?",
+		"alternativas": [
+			"À alta burguesia, que desejava participar do poder legislativo francês como força política dominante.",
+			"Ao clero francês, que desejava justiça social e era ligado à alta burguesia.",
+			"A militares oriundos da pequena e média burguesia, que derrotaram as potências rivais e queriam reorganizar a França internamente.",
+			"À nobreza esclarecida, que, em função do seu contato com os intelectuais iluministas, desejava extinguir o absolutismo francês.",
+	"Aos representantes da pequena e média burguesia e das camadas populares, que desejavam justiça social e direitos políticos."
+		],
+		"resposta": "4",
+		"marcada": ""
+},
+{
+  "enunciado": "10) (PUCRJ - 2016) - Durante o século XVII, a Europa Ocidental presenciou mudanças políticas importantes na forma de organização dos Estados. A centralização política do século XVI deu lugar à política absolutista. Assinale a alternativa que define a política absolutista do século XVII de modo CORRETO. ",
+		"alternativas": [
+			"Poder do Estado, concentrado nas mãos do rei e de sua burocracia, sustentado pelos setores burgueses urbanos. ",
+			"Poder real, personalizado na figura do rei absoluto, tendo como base social os senhores feudais e os setores camponeses. ",
+			"Poder de polícia, estruturado na violência e organizado por milícias mercenárias, diretamente ligadas aos setores da pequena nobreza.",
+			"Poder absoluto do rei, produzido pelo controle das finanças e pelo apoio social dos setores camponeses. ",
+	"Poder divino, associado ao poder temporal, sustentado pela aliança entre o clero e os senhores feudais."
+		],
+		"resposta": "1",
+		"marcada": ""
+}
+],
+"gabarito": [3, 3, 2, 1, 4, 0, 0, 1, 4, 1],
 "respostas": []
 }
